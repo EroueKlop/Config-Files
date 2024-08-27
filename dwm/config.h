@@ -10,7 +10,7 @@ static const char *fonts[]          = { "JetBrains Mono:size=10" };
 
 
 // Use pywal colors
-#include "/home/nigru/.cache/wal/colors-wal-dwm.h"
+#include "/$HOME/.cache/wal/colors-wal-dwm.h"
 
 /* tagging */
 static const char *tags[] = { "1", "2", "3", "4", "5" };
